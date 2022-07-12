@@ -1,0 +1,104 @@
+---
+title: "Réalisation de l'upset plot pour les ARGs de GMGC gut"
+output: html_notebook
+---
+
+Librairies nécessaires :
+```{r}
+require(knitr)
+require(dplyr)
+require(readr)
+require(tidyr)
+require(ggplot2)
+require(reshape2)
+require(UpSetR)
+```
+VERSION POUR GUT
+Modification du tableau sous forme de matrice.
+```{r}
+all_data <- read.csv("C:\\Users\\remi.gschwind\\Desktop\\Resfinder FG\\ResFinder_FG_Analysis\\analysis0422\\output\\hits_gut_all.csv", sep = ";")
+df <- tibble(gmgc_id = all_data$GMGC_id , family = all_data$family , db = all_data$db)
+df2 <- df %>% separate_rows(db, sep = "/") %>% mutate(i = 1) %>% spread(db,i,fill=0)
+df2
+write.csv(df2, "C:\\Users\\remi.gschwind\\Desktop\\Resfinder FG\\ResFinder_FG_Analysis\\analysis0422\\output\\dataframe_gut.csv", row.names = FALSE)
+```
+
+
+On récupère les données
+```{r}
+# Import des données
+data <- df2
+
+# Conversion des double en integer et casting du tibble en dataframe
+data <- data %>% mutate_if(is.numeric, as.integer)
+data <- as.data.frame(data) 
+```
+
+On réalise un plot pour voir quelles sont les familles d'ATB importantes. 
+```{r}
+data %>% ggplot(aes(x = family)) + geom_bar() + coord_flip()
+```
+On selectionne les 6 familles les plus représentés 
+Ici : Multidrug_efflux, Glycopeptide/Cycloserine, Sulfonamide/Trimethoprim, MLS, aminoside et béta-lactamase.
+
+On ajoute une colonne au dataframe avec les nouveaux noms (le même ou other)
+```{r}
+data <- data %>% mutate(nametoshow = case_when(family == "Multidrug_efflux" ~ "Multidrug Efflux",
+                                                family == "Glycopeptide/Cycloserine" ~ "Glycopeptide/Cycloserine",
+                                                family == "Sulfonamide/trimethoprim" ~ "Sulfonamide/Trimethoprim",
+                                                family == "MLS" ~ "MLS",
+                                                family == "aminoside" ~ "Aminoside",
+                                                family == "blactamase" ~ "Beta-lactamases",
+                                                TRUE ~ "Others"))
+```
+
+Attribution des couleurs
+```{r}
+families <- c("Others", "Beta-lactamases", "Aminoside", "MLS", "Sulfonamide/Trimethoprim", "Glycopeptide/Cycloserine", "Multidrug Efflux")
+colors_f <- c("#D2D2D2", "#EE6666", "#BBDAEA", "#FCB6B6", "#FDCD8C", "#C0E69F", "#2C94DA") 
+```
+
+Réalisation de l'upset plot
+```{r}
+p <- UpSetR::upset(data,
+              order.by = "freq", sets.x.label = "ARGs detected", point.size = 3, text.scale = 2.8,
+              queries = list(
+                list(query = elements,
+                     params = list("nametoshow", families[1:7]),
+                     color = colors_f[1],
+                     active = T,
+                     query.name = families[1]), 
+              list(query = elements,
+                     params = list("nametoshow", families[2:7]),
+                     color =  colors_f[2],
+                     active = T,
+                     query.name = families[2]), 
+              list(query = elements,
+                     params = list("nametoshow", families[3:7]),
+                     color = colors_f[3],
+                     active = T,
+                     query.name = families[3]),
+              list(query = elements,
+                     params = list("nametoshow", families[4:7]),
+                     color = colors_f[4],
+                     active = T,
+                     query.name = families[4]),
+              list(query = elements,
+                     params = list("nametoshow", families[5:7]),
+                     color = colors_f[5],
+                     active = T,
+                     query.name = families[5]),
+              list(query = elements,
+                     params = list("nametoshow", families[6:7]),
+                     color = colors_f[6],
+                     active = T,
+                     query.name = families[6]),
+              list(query = elements,
+                     params = list("nametoshow", families[7:7]),
+                     color = colors_f[7],
+                     active = T,
+                     query.name = families[7])
+              ), query.legend = "top")
+
+p
+```

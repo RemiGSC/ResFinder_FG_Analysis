@@ -1,0 +1,30 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+require(knitr)
+require(dplyr)
+require(readr)
+require(tidyr)
+require(ggplot2)
+require(reshape2)
+require(UpSetR)
+```
+
+```{r}
+all_data <- read.csv("C:\\Users\\remi.gschwind\\Desktop\\Resfinder FG\\ResFinder_FG_Analysis\\analysis0422\\output\\comparison.csv", sep = ";")
+p <- ggplot(data=all_data, aes(x=Antibiotic_family, y=Gene_number, fill=Database)) +
+geom_bar(stat="identity", color="black" , position=position_dodge()) + scale_color_manual(values = c("#0073C2FF", "#EFC000FF")) + scale_fill_manual(values = c("#a6cee3", "#1f78b4"))
+p + theme(panel.background = element_rect(fill="white") , axis.line = element_line(colour="black") , axis.text = element_text(size=15) , legend.text = element_text(size=25) , legend.title = element_text(size = 25))
+
+```
+
+```{r}
+all_data <- read.csv("C:\\Users\\remi.gschwind\\Desktop\\Resfinder FG\\ResFinder_FG_Analysis\\analysis0422\\output\\comparison_source.csv", sep = ";")
+p <- ggplot(data=all_data, aes(x=Source, y=Gene_number, fill=Database)) +
+geom_bar(stat="identity", color="black" , position=position_dodge()) + scale_color_manual(values = c("#0073C2FF", "#EFC000FF")) + scale_fill_manual(values = c("#a6cee3", "#1f78b4"))
+p + theme(panel.background = element_rect(fill="white") , axis.line = element_line(colour="black") , axis.text = element_text(size=20) , legend.text = element_text(size=25) , legend.title = element_text(size = 25))
+
+```

@@ -1,0 +1,990 @@
+family;gene_name
+aminoside;16S rRNA (adenine(1408)-N(1))-methyltransferase KamB
+aminoside;16S rRNA (adenine(1408)-N(1))-methyltransferase NpmA
+aminoside;16S rRNA (guanine(1405)-N(7))-methyltransferase RmtB1
+aminoside;16S rRNA (guanine(1405)-N(7))-methyltransferase RmtD2
+aminoside;16S rRNA (guanine(1405)-N(7))-methyltransferase RmtF2
+peptide;23S rRNA (adenine(1067)-N)-methyltransferase TsnR
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(30)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(31)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(34)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(35)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(37)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(38)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(39)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(40)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(42)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(43)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(44)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(44)v
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(45)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(46)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(47)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(49)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(D)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(E)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(G)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(K)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(N)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(O)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(Q)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(R)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(S)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(T)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(U)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(V)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(X)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(Y)
+MLS;23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(Z)
+phenicol;23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr
+phenicol;23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr(B)
+Multidrug;23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr(C)
+Multidrug;23S rRNA (adenine(2503)-C(8))-methyltransferase CipA
+MLS;23S rRNA (adenine(2503)-C(8))-methyltransferase ClbA
+MLS;23S rRNA (adenine(2503)-C(8))-methyltransferase ClbB
+MLS;23S rRNA (adenine(2503)-C(8))-methyltransferase ClbC
+MLS;23S rRNA (guanine(2470)) methyltransferase EmtA
+MLS;23S rRNA (guanine(748)-N(1))-methyltransferase ChrB
+MLS;23S rRNA (guanine(748)-N(1))-methyltransferase Erm(32)
+MLS;23S rRNA (guanine(748)-N(1))-methyltransferase MyrA
+aminoside;AAC(6')-Ia family aminoglycoside 6'-N-acetyltransferase
+aminoside;AAC(6')-Ia family aminoglycoside 6'-N-acetyltransferase AacA16
+aminoside;AAC(6')-Ia family aminoglycoside 6'-N-acetyltransferase AacA43
+aminoside;AAC(6')-Ia family aminoglycoside 6'-N-acetyltransferase AacA56
+aminoside;AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase
+aminoside;AAC(6')-Ighjkrstuvwx family aminoglycoside N-acetyltransferase
+aminoside;AAC(6')-II family aminoglycoside 6'-N-acetyltransferase AacA35
+MLS;ABC-F type ribosomal protection protein Car(A)
+MLS;ABC-F type ribosomal protection protein Eat(A)
+MLS;ABC-F type ribosomal protection protein Lsa(A)
+MLS;ABC-F type ribosomal protection protein Lsa(B)
+MLS;ABC-F type ribosomal protection protein Lsa(C)
+MLS;ABC-F type ribosomal protection protein Lsa(E)
+MLS;ABC-F type ribosomal protection protein Msr(A)
+MLS;ABC-F type ribosomal protection protein Msr(C)
+MLS;ABC-F type ribosomal protection protein Msr(D)
+MLS;ABC-F type ribosomal protection protein Msr(E)
+MLS;ABC-F type ribosomal protection protein Ole(B)
+multidrug;ABC-F type ribosomal protection protein OptrA
+Multidrug;ABC-F type ribosomal protection protein PoxtA
+MLS;ABC-F type ribosomal protection protein Sal(A)
+MLS;ABC-F type ribosomal protection protein Srm(B)
+MLS;ABC-F type ribosomal protection protein TaeA
+MLS;ABC-F type ribosomal protection protein Tlr(C)
+MLS;ABC-F type ribosomal protection protein Tva(A)
+MLS;ABC-F type ribosomal protection protein Tva(B)
+MLS;ABC-F type ribosomal protection protein Vga(A)
+MLS;ABC-F type ribosomal protection protein Vga(B)
+MLS;ABC-F type ribosomal protection protein Vga(D)
+MLS;ABC-F type ribosomal protection protein Vga(E)
+MLS;ABC-F type ribosomal protection protein VmlR
+aminoside;aminocyclitol acetyltransferase ApmA
+aminoside;aminoglycoside 6-adenylyltransferase AadE
+aminoside;aminoglycoside 6-adenylyltransferase AadE-Cc
+aminoside;aminoglycoside 6-adenylyltransferase AadK
+aminoside;aminoglycoside 6-adenylyltransferase AadS
+aminoside;aminoglycoside 6'-N-acetyltransferase
+aminoside;aminoglycoside 6'-N-acetyltransferase AAC(6')-30
+aminoside;aminoglycoside 6'-N-acetyltransferase AAC(6')-33
+aminoside;aminoglycoside 6'-N-acetyltransferase AAC(6')-35
+aminoside;aminoglycoside 6'-N-acetyltransferase AAC(6')-Ia
+aminoside;aminoglycoside 6'-N-acetyltransferase AAC(6')-Iae
+aminoside;aminoglycoside 6'-N-acetyltransferase AAC(6')-Iq
+aminoside;aminoglycoside 6'-N-acetyltransferase AacA34
+aminoside;aminoglycoside 6'-N-acetyltransferase AacA8
+aminoside;aminoglycoside N-acetyltransferase AAC(2')-Ia
+aminoside;aminoglycoside N-acetyltransferase AAC(2')-Ib
+aminoside;aminoglycoside N-acetyltransferase AAC(2')-Ic
+aminoside;aminoglycoside N-acetyltransferase AAC(2')-Id
+aminoside;aminoglycoside N-acetyltransferase AAC(2')-Ie
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Ia
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Ib
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Ic
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Id
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-If
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Ig
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Ih
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Ii
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-IIc
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-IId
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-IIe
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-IVa
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-VIa
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-VIIa
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-VIII
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-Xa
+aminoside;aminoglycoside N-acetyltransferase AAC(3)-XI
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-29a
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-31
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Iak
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Ian
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Ib4
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-If
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-IIa
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-IIb
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-IIc
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Iid
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Il
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Im
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Isa
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Iu
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Iv
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Iw
+aminoside;aminoglycoside N-acetyltransferase AAC(6')-Iz
+aminoside;aminoglycoside nucleotidyltransferase ANT(2'')-Ia
+aminoside;aminoglycoside nucleotidyltransferase ANT(3'')-IIa
+aminoside;aminoglycoside nucleotidyltransferase ANT(3'')-IIb
+aminoside;aminoglycoside nucleotidyltransferase ANT(3'')-IIc
+aminoside;aminoglycoside nucleotidyltransferase ANT(4')-IIb
+aminoside;aminoglycoside nucleotidyltransferase ANT(6)-Ia
+aminoside;aminoglycoside nucleotidyltransferase ANT(6)-Ib
+aminoside;aminoglycoside nucleotidyltransferase ANT(6)-Ic
+aminoside;aminoglycoside nucleotidyltransferase ANT(9)-Ia
+aminoside;aminoglycoside nucleotidyltransferase ANT(9)-Ib
+aminoside;aminoglycoside O-nucleotidyltransferase ANT(4')-Ia
+aminoside;aminoglycoside O-nucleotidyltransferase ANT(4')-Ib
+aminoside;aminoglycoside O-nucleotidyltransferase ANT(4')-Ic
+aminoside;aminoglycoside O-phosphotransferase APH(2'')-If
+aminoside;aminoglycoside O-phosphotransferase APH(2'')-Ig
+aminoside;aminoglycoside O-phosphotransferase APH(2'')-Ih
+aminoside;aminoglycoside O-phosphotransferase APH(2'')-IIa
+aminoside;aminoglycoside O-phosphotransferase APH(2'')-IIIa
+aminoside;aminoglycoside O-phosphotransferase APH(2'')-IVa
+aminoside;aminoglycoside O-phosphotransferase APH(3')-Ia
+aminoside;aminoglycoside O-phosphotransferase APH(3'')-Ia
+aminoside;aminoglycoside O-phosphotransferase APH(3')-Ib
+aminoside;aminoglycoside O-phosphotransferase APH(3'')-Ib
+aminoside;aminoglycoside O-phosphotransferase APH(3'')-Ic
+aminoside;aminoglycoside O-phosphotransferase APH(3')-IIa
+aminoside;aminoglycoside O-phosphotransferase APH(3')-IIb
+aminoside;aminoglycoside O-phosphotransferase APH(3')-IIc
+aminoside;aminoglycoside O-phosphotransferase APH(3')-IIIa
+aminoside;aminoglycoside O-phosphotransferase APH(3')-IVa
+aminoside;aminoglycoside O-phosphotransferase APH(3')-Va
+aminoside;aminoglycoside O-phosphotransferase APH(3')-Vc
+aminoside;aminoglycoside O-phosphotransferase APH(3')-VIa
+aminoside;aminoglycoside O-phosphotransferase APH(3')-VIIa
+aminoside;aminoglycoside O-phosphotransferase APH(3')-VIII
+aminoside;aminoglycoside O-phosphotransferase APH(4)-Ia
+aminoside;aminoglycoside O-phosphotransferase APH(6)-Ia
+aminoside;aminoglycoside O-phosphotransferase APH(6)-Ib
+aminoside;aminoglycoside O-phosphotransferase APH(6)-Ic
+aminoside;aminoglycoside O-phosphotransferase APH(6)-Id
+aminoside;aminoglycoside O-phosphotransferase APH(7'')-Ia
+aminoside;aminoglycoside O-phosphotransferase APH(9)-Ia
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA10
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA13
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA16
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA22
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA31
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA4
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA6
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA7
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA8
+aminoside;ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA9
+aminoside;ANT(3'')-II family aminoglycoside nucleotidyltransferase AadA27
+aminoside;ANT(9) family aminoglycoside nucleotidyltransferase
+aminoside;ANT(9) family aminoglycoside nucleotidyltransferase Spd
+aminoside;ANT(9) family aminoglycoside nucleotidyltransferase Spw
+aminoside;APH(3') family aminoglycoside O-phosphotransferase
+aminoside;APH(3') family aminoglycoside O-phosphotransferase AphA16
+aminoside;APH(6) family putative aminoglycoside O-phosphotransferase
+blactamase;AQU family class C beta-lactamase
+aminoside;ArmA family 16S rRNA (guanine(1405)-N(7))-methyltransferase
+blactamase;BBI family class A beta-lactamase
+blactamase;BcII family subclass B1 metallo-beta-lactamase
+blactamase;benzylpenicillin-hydrolyzing class D beta-lactamase OXA-22
+blactam_non_enz;beta-lactam sensor/signal transducer BlaR1
+blactam_non_enz;beta-lactam sensor/signal transducer MecR1
+blactamase;BJP family subclass B3 metallo-beta-lactamase
+blactamase;BlaL family class A beta-lactamase
+blactam_non_enz;BlaR1 family beta-lactam sensor/signal transducer
+bleomycin;bleomycin binding protein
+bleomycin;bleomycin binding protein Ble-MBL
+bleomycin;bleomycin binding protein BLMA
+bleomycin;bleomycin binding protein BLMT
+bleomycin;bleomycin family antibiotic N-acetyltransferase BlmB
+bleomycin;bleomycin family antibiotic N-acetyltransferase TlmB
+blactamase;carbapenem-hydrolyzing class A beta-lactamase AXC-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase AXC-2
+blactamase;carbapenem-hydrolyzing class A beta-lactamase AXC-3
+blactamase;carbapenem-hydrolyzing class A beta-lactamase BKC-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase CRH-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase CRH-2
+blactamase;carbapenem-hydrolyzing class A beta-lactamase CRP-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase FPH-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase GES-14
+blactamase;carbapenem-hydrolyzing class A beta-lactamase GPC-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase IMI-13
+blactamase;carbapenem-hydrolyzing class A beta-lactamase IMI-2
+blactamase;carbapenem-hydrolyzing class A beta-lactamase KPC-3
+blactamase;carbapenem-hydrolyzing class A beta-lactamase RSA2-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase SFC-1
+blactamase;carbapenem-hydrolyzing class A beta-lactamase SME-2
+blactamase;carbapenem-hydrolyzing class D beta-lactamase OXA-229
+blactamase;carbapenem-hydrolyzing class D beta-lactamase OXA-664
+blactamase;carbapenem-hydrolyzing class D beta-lactamase OXA-666
+blactamase;carbenicillin-hydrolyzing class A beta-lactamase AER-1
+blactamase;carbenicillin-hydrolyzing class A beta-lactamase CARB-23
+blactamase;carbenicillin-hydrolyzing class A beta-lactamase CARB-42
+blactamase;carbenicillin-hydrolyzing class A beta-lactamase VHH-1
+blactamase;CblA family class A beta-lactamase
+blactamase;CepA family class A extended-spectrum beta-lactamase
+blactamase;cephalosporin-hydrolyzing class A beta-lactamase ROB-1
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACC-1
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACC-1a
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACC-7
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-10
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-12
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-2
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-21
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-37
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-38
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-4
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-49
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-50
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-52
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-53
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-55
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-59
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-6
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-62
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-78
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ACT-80
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase ADC-8
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase CepH
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase CepS
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase EC-5
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase EC-8
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase FOX-15
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase FOX-2
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase MIR-10
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase SRT-2
+blactamase;cephalosporin-hydrolyzing class C beta-lactamase SST-1
+Multidrug;Cfr family 23S rRNA (adenine(2503)-C(8))-methyltransferase
+blactamase;CfxA family class A broad-spectrum beta-lactamase
+phenicol;chloramphenicol efflux MFS transporter CmlA5
+phenicol;chloramphenicol efflux MFS transporter CmlB
+phenicol;chloramphenicol efflux MFS transporter CmlB1
+phenicol;chloramphenicol efflux MFS transporter CmlR
+phenicol;chloramphenicol efflux MFS transporter CmlV
+phenicol;chloramphenicol efflux MFS transporter CmrA
+phenicol;chloramphenicol efflux MFS transporter Cmx
+phenicol;chloramphenicol hydrolase
+phenicol;chloramphenicol phosphotransferase CPT
+phenicol;chloramphenicol/florfenicol efflux MFS transporter FexA
+phenicol;chloramphenicol/florfenicol efflux MFS transporter FloR
+phenicol;chloramphenicol/florfenicol efflux MFS transporter FloR2
+quinolone;ciprofloxacin resistance protein CrpP
+blactamase;class A beta-lactamase
+blactamase;class A beta-lactamase ARL-2
+blactamase;class A beta-lactamase BCL-1
+blactamase;class A beta-lactamase Bla1
+blactamase;class A beta-lactamase BlaA
+blactamase;class A beta-lactamase BlaP
+blactamase;class A beta-lactamase BRO-1
+blactamase;class A beta-lactamase FONA-4
+blactamase;class A beta-lactamase FONA-5
+blactamase;class A beta-lactamase FTU-1
+blactamase;class A beta-lactamase HER-3
+blactamase;class A beta-lactamase HER-6
+blactamase;class A beta-lactamase HER-8
+blactamase;class A beta-lactamase LAP-1
+blactamase;class A beta-lactamase LAP-2
+blactamase;class A beta-lactamase LEN-17
+blactamase;class A beta-lactamase LEN-30
+blactamase;class A beta-lactamase LRA-1
+blactamase;class A beta-lactamase LUS-1
+blactamase;class A beta-lactamase LUT-4
+blactamase;class A beta-lactamase PAU-1
+blactamase;class A beta-lactamase PLA-3
+blactamase;class A beta-lactamase SCO-1
+blactamase;class A beta-lactamase SGM-2
+blactamase;class A beta-lactamase SGM-3
+blactamase;class A beta-lactamase SGM-4
+blactamase;class A beta-lactamase SGM-5
+blactamase;class A beta-lactamase SGM-6
+blactamase;class A beta-lactamase SGM-7
+blactamase;class A beta-lactamase TEM-176
+blactamase;class A beta-lactamase TEM-181
+blactamase;class A beta-lactamase TER-2
+blactamase;class A broad-spectrum beta-lactamase AST-1
+blactamase;class A broad-spectrum beta-lactamase CfxA6
+blactamase;class A broad-spectrum beta-lactamase OKP-A-11
+blactamase;class A broad-spectrum beta-lactamase OKP-B-22
+blactamase;class A broad-spectrum beta-lactamase OKP-C-1
+blactamase;class A broad-spectrum beta-lactamase OKP-D-1
+blactamase;class A broad-spectrum beta-lactamase ORN-1
+blactamase;class A broad-spectrum beta-lactamase RUB-1
+blactamase;class A broad-spectrum beta-lactamase SED-1
+blactamase;class A broad-spectrum beta-lactamase SHV-1
+blactamase;class A broad-spectrum beta-lactamase SHV-33
+blactamase;class A broad-spectrum beta-lactamase SHV-60
+blactamase;class A broad-spectrum beta-lactamase TEM-1
+blactamase;class A broad-spectrum beta-lactamase TEM-116
+blactamase;class A extended-spectrum beta-lactamase ACI-1
+blactamase;class A extended-spectrum beta-lactamase BEL-1
+blactamase;class A extended-spectrum beta-lactamase CepA-44
+blactamase;class A extended-spectrum beta-lactamase CfxA2
+blactamase;class A extended-spectrum beta-lactamase CfxA3
+blactamase;class A extended-spectrum beta-lactamase CGA-1
+blactamase;class A extended-spectrum beta-lactamase CIA-1
+blactamase;class A extended-spectrum beta-lactamase CIA-4
+blactamase;class A extended-spectrum beta-lactamase CME-1
+blactamase;class A extended-spectrum beta-lactamase CME-2
+blactamase;class A extended-spectrum beta-lactamase CSP-1
+blactamase;class A extended-spectrum beta-lactamase CTX-M-121
+blactamase;class A extended-spectrum beta-lactamase CTX-M-123
+blactamase;class A extended-spectrum beta-lactamase CTX-M-152
+blactamase;class A extended-spectrum beta-lactamase CTX-M-3
+blactamase;class A extended-spectrum beta-lactamase CTX-M-37
+blactamase;class A extended-spectrum beta-lactamase CTX-M-5
+blactamase;class A extended-spectrum beta-lactamase CTX-M-63
+blactamase;class A extended-spectrum beta-lactamase DES-1
+blactamase;class A extended-spectrum beta-lactamase ERP-1
+blactamase;class A extended-spectrum beta-lactamase FAR-1
+blactamase;class A extended-spectrum beta-lactamase KLUC-1
+blactamase;class A extended-spectrum beta-lactamase LRG-1
+blactamase;class A extended-spectrum beta-lactamase OXY-1-3
+blactamase;class A extended-spectrum beta-lactamase OXY-2-4
+blactamase;class A extended-spectrum beta-lactamase OXY-3-1
+blactamase;class A extended-spectrum beta-lactamase PER-2
+blactamase;class A extended-spectrum beta-lactamase PER-6
+blactamase;class A extended-spectrum beta-lactamase RAHN-2
+blactamase;class A extended-spectrum beta-lactamase SFO-1
+blactamase;class A extended-spectrum beta-lactamase SGM-1
+blactamase;class A extended-spectrum beta-lactamase SHV-12
+blactamase;class A extended-spectrum beta-lactamase TEM-94
+blactamase;class A extended-spectrum beta-lactamase TLA-3
+blactamase;class A extended-spectrum beta-lactamase VEB-14
+blactamase;class C beta-lactamase
+blactamase;class C beta-lactamase ADC-116
+blactamase;class C beta-lactamase ADC-129
+blactamase;class C beta-lactamase ADC-131
+blactamase;class C beta-lactamase ADC-133
+blactamase;class C beta-lactamase ADC-134
+blactamase;class C beta-lactamase ADC-138
+blactamase;class C beta-lactamase ADC-150
+blactamase;class C beta-lactamase ADC-154
+blactamase;class C beta-lactamase ADC-194
+blactamase;class C beta-lactamase ADC-210
+blactamase;class C beta-lactamase ADC-222
+blactamase;class C beta-lactamase CMA-1
+blactamase;class C beta-lactamase CMA-2
+blactamase;class C beta-lactamase CMH-2
+blactamase;class C beta-lactamase CMY-100
+blactamase;class C beta-lactamase CMY-101
+blactamase;class C beta-lactamase CMY-157
+blactamase;class C beta-lactamase CMY-159
+blactamase;class C beta-lactamase CMY-2
+blactamase;class C beta-lactamase CMY-51
+blactamase;class C beta-lactamase CMY-75
+blactamase;class C beta-lactamase CMY-82
+blactamase;class C beta-lactamase CSA-1
+blactamase;class C beta-lactamase DHA-12
+blactamase;class C beta-lactamase DHA-13
+blactamase;class C beta-lactamase DHA-16
+blactamase;class C beta-lactamase LHK-1
+blactamase;class C beta-lactamase PDC-160
+blactamase;class C beta-lactamase PDC-34
+blactamase;class C beta-lactamase TRU-1
+blactamase;class C extended-spectrum beta-lactamase ADC-13
+blactamase;class C extended-spectrum beta-lactamase ADC-18
+blactamase;class C extended-spectrum beta-lactamase ADC-19
+blactamase;class C extended-spectrum beta-lactamase ADC-20
+blactamase;class C extended-spectrum beta-lactamase ADC-21
+blactamase;class C extended-spectrum beta-lactamase ADC-43
+blactamase;class C extended-spectrum beta-lactamase ADC-80
+blactamase;class C extended-spectrum beta-lactamase EC-13
+blactamase;class C extended-spectrum beta-lactamase EC-15
+blactamase;class C extended-spectrum beta-lactamase OCH-1
+blactamase;class C extended-spectrum beta-lactamase OCH-2
+blactamase;class C extended-spectrum beta-lactamase OCH-3
+blactamase;class C extended-spectrum beta-lactamase OCH-6
+blactamase;class C extended-spectrum beta-lactamase OCH-7
+blactamase;class C extended-spectrum beta-lactamase OCH-8
+blactamase;class C extended-spectrum beta-lactamase SRT-1
+blactamase;class D beta-lactamase BPU-1
+blactamase;class D beta-lactamase CDD-1
+blactamase;class D beta-lactamase CDD-2
+blactamase;class D beta-lactamase OXA-184
+blactamase;class D beta-lactamase OXA-198
+blactamase;class D beta-lactamase OXA-209
+blactamase;class D beta-lactamase OXA-258
+blactamase;class D beta-lactamase OXA-266
+blactamase;class D beta-lactamase OXA-274
+blactamase;class D beta-lactamase OXA-279
+blactamase;class D beta-lactamase OXA-286
+blactamase;class D beta-lactamase OXA-296
+blactamase;class D beta-lactamase OXA-297
+blactamase;class D beta-lactamase OXA-299
+blactamase;class D beta-lactamase OXA-347
+blactamase;class D beta-lactamase OXA-427
+blactamase;class D beta-lactamase OXA-459
+blactamase;class D beta-lactamase OXA-464
+blactamase;class D beta-lactamase OXA-493
+blactamase;class D beta-lactamase OXA-504
+blactamase;class D beta-lactamase OXA-576
+blactamase;class D beta-lactamase OXA-837
+blactamase;CMY-1/MOX family class C beta-lactamase MOX-12
+blactamase;CMY-1/MOX family class C beta-lactamase MOX-8
+blactamase;CMY-1/MOX family class C beta-lactamase MOX-9
+blactamase;CMY-1/MOX family class C extended-spectrum beta-lactamase CMY-8
+blactamase;CMY-2 family cephalosporin-hydrolyzing class C beta-lactamase CFE-1
+blactamase;CMY2/MIR/ACT/EC family class C beta-lactamase
+Glycopeptide/cycloserine;D-Ala-D-Ala carboxypeptidase VanY-A
+Glycopeptide/cycloserine;D-Ala-D-Ala carboxypeptidase VanY-B
+Glycopeptide/cycloserine;D-Ala-D-Ala carboxypeptidase VanY-F
+Glycopeptide/cycloserine;D-Ala-D-Ala carboxypeptidase VanY-G1
+Glycopeptide/cycloserine;D-Ala-D-Ala carboxypeptidase VanY-Pt
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-A
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-Ac1
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-Ao2
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-B
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-D
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-E
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-I
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-M
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-O
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-Pt
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase VanX-Sc
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase/D-Ala-D-Ala carboxypeptidase VanXY-C
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase/D-Ala-D-Ala carboxypeptidase VanXY-E
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase/D-Ala-D-Ala carboxypeptidase VanXY-G
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase/D-Ala-D-Ala carboxypeptidase VanXY-G2
+Glycopeptide/cycloserine;D-Ala-D-Ala dipeptidase/D-Ala-D-Ala carboxypeptidase VanXY-N
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanA
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanA-Ao2
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanA-Pa
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanA-Pt
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanA-Pt2
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanA-Sc
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanB
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanD
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanF
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanI
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanM
+Glycopeptide/cycloserine;D-alanine--(R)-lactate ligase VanO
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanC1
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanC2/3
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanE
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanG
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanG2
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanG-Cd
+Glycopeptide/cycloserine;D-alanine--D-serine ligase VanN
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-A
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-Ac1
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-Ao2
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-B
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-D
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-E
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-M
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-O
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-Pt
+Glycopeptide/cycloserine;D-lactate dehydrogenase VanH-Sc
+MLS;EreA family erythromycin esterase
+MLS;EreB family erythromycin esterase
+MLS;EreD family erythromycin esterase
+blactamase;Exo family class A beta-lactamase
+Sulfonamide/trimethoprim;flavin reductase SulR
+quinolone;fluoroquinolone efflux MFS transporter QepA4
+quinolone;fluoroquinolone efflux MFS transporter QepA6
+fosfomycin;FomB family phosphonate monophosphate kinase
+fosfomycin;Fos family putative thiol transferase
+fosfomycin;FosA family fosfomycin resistance glutathione transferase
+fosfomycin;FosB family fosfomycin resistance bacillithiol transferase
+fosfomycin;FosB/FosD family fosfomycin resistance bacillithiol transferase
+fosfomycin;FosB1/FosB3 family fosfomycin resistance bacillithiol transferase
+fosfomycin;fosfomycin resistance bacillithiol transferase FosB2
+fosfomycin;fosfomycin resistance bacillithiol transferase FosB6
+fosfomycin;fosfomycin resistance bacillithiol transferase FosBx1
+fosfomycin;fosfomycin resistance bacillithiol transferase FosD
+fosfomycin;fosfomycin resistance glutathione transferase FosA
+fosfomycin;fosfomycin resistance glutathione transferase FosA2
+fosfomycin;fosfomycin resistance glutathione transferase FosA3
+fosfomycin;fosfomycin resistance glutathione transferase FosA4
+fosfomycin;fosfomycin resistance glutathione transferase FosA5
+fosfomycin;fosfomycin resistance glutathione transferase FosA6
+fosfomycin;fosfomycin resistance glutathione transferase FosA7.2
+fosfomycin;fosfomycin resistance glutathione transferase FosA7.3
+fosfomycin;fosfomycin resistance glutathione transferase FosA7.4
+fosfomycin;fosfomycin resistance glutathione transferase FosA7.5
+fosfomycin;fosfomycin resistance glutathione transferase FosA7.7
+fosfomycin;fosfomycin resistance glutathione transferase FosA7.8
+fosfomycin;fosfomycin resistance glutathione transferase FosA8
+fosfomycin;fosfomycin resistance glutathione transferase FosF
+fosfomycin;fosfomycin resistance glutathione transferase FosK
+fosfomycin;fosfomycin resistance thiol transferase FosE
+fosfomycin;fosfomycin resistance thiol transferase FosI
+fosfomycin;fosfomycin resistance thiol transferase FosX
+fosfomycin;FosG/FosC2 family fosfomycin resistance glutathione transferase
+fosfomycin;FosX/FosE/FosI family fosfomycin resistance thiol transferase
+blactamase;FOX/MOX family class C beta-lactamase
+fusidic acid;FusD family fusidic acid resistance EF-G-binding protein
+fusidic acid;fusidic acid esterase FusH
+fusidic acid;fusidic acid resistance EF-G-binding protein FusB
+fusidic acid;fusidic acid resistance EF-G-binding protein FusF
+Glycopeptide/cycloserine;glycopeptide resistance accessory protein VanW
+Glycopeptide/cycloserine;glycopeptide resistance accessory protein VanW-B
+Glycopeptide/cycloserine;glycopeptide resistance accessory protein VanW-G
+Glycopeptide/cycloserine;glycopeptide resistance protein VanZ1
+Glycopeptide/cycloserine;glycopeptide resistance protein VanZ-A
+Glycopeptide/cycloserine;glycopeptide resistance protein VanZ-F
+Glycopeptide/cycloserine;glycopeptide resistance transcriptional regulator VanU
+blactamase;IND family subclass B1 metallo-beta-lactamase CGB-1
+blactamase;inhbitor-resistant cephalosporin-hydrolyzing class C beta-lactamase FOX-4
+blactamase;inhibitior-resistant cephalosporin-hydrolyzing class C beta-lactamase PAC-1
+blactamase;inhibitor-resistant class A extended-spectrum beta-lactamase PER-1
+aminoside;kasugamycin N-acetyltransferase AAC(2')-IIa
+aminoside;kasugamycin N-acetyltransferase AAC(2')-IIb
+blactamase;L1 family subclass B3 metallo-beta-lactamase
+blactamase;L2 family class A beta-lactamase
+MLS;lincomycin resistance ABC-F type ribosomal protection protein
+MLS;lincosamide nucleotidyltransferase Lnu(A)
+MLS;lincosamide nucleotidyltransferase Lnu(A)'
+MLS;lincosamide nucleotidyltransferase Lnu(AN2)
+MLS;lincosamide nucleotidyltransferase Lnu(B)
+MLS;lincosamide nucleotidyltransferase Lnu(C)
+MLS;lincosamide nucleotidyltransferase Lnu(D)
+MLS;lincosamide nucleotidyltransferase Lnu(F)
+MLS;lincosamide nucleotidyltransferase Lnu(P)
+MLS;macrolide 2'-phosphotransferase MphH
+MLS;macrolide 2'-phosphotransferase MphJ
+MLS;macrolide 2'-phosphotransferase MphK
+MLS;macrolide 2'-phosphotransferase MphL
+MLS;macrolide 2'-phosphotransferase MphM
+MLS;macrolide 2'-phosphotransferase MphN
+MLS;macrolide efflux MFS transporter Mef(A)
+MLS;macrolide efflux MFS transporter Mef(B)
+MLS;macrolide efflux MFS transporter Mef(C)
+MLS;macrolide efflux MFS transporter Mef(En2)
+MLS;macrolide-inactivating glycosyltransferase
+blactamase;MAL/CKO family class A beta-lactamase MAL-1
+blactamase;MCA family class C beta-lactamase
+blactam_non_enz;mecA-type methicillin resistance repressor MecI
+blactam_non_enz;mecC-type methicillin resistance repressor MecI
+blactamase;mecC-type penicillin-hydrolyzing class A beta-lactamase BlaZ
+Glycopeptide/cycloserine;membrane-bound serine racemase VanT
+Glycopeptide/cycloserine;membrane-bound serine racemase VanT-C
+Glycopeptide/cycloserine;membrane-bound serine racemase VanT-Cd
+Glycopeptide/cycloserine;membrane-bound serine racemase VanT-E
+Glycopeptide/cycloserine;membrane-bound serine racemase VanT-G
+Glycopeptide/cycloserine;membrane-bound serine racemase VanT-N
+MLS;Mph(A) family macrolide 2'-phosphotransferase
+MLS;Mph(B) family macrolide 2'-phosphotransferase
+MLS;Mph(C) family macrolide 2'-phosphotransferase
+MLS;Mph(E) family macrolide 2'-phosphotransferase
+MLS;Mph(G) family macrolide 2'-phosphotransferase
+Multidrug_efflux;multidrug efflux RND transporter periplasmic adaptor subunit OqxA
+Multidrug_efflux;multidrug efflux RND transporter periplasmic adaptor subunit OqxA10
+Multidrug_efflux;multidrug efflux RND transporter periplasmic adaptor subunit OqxA5
+Multidrug_efflux;multidrug efflux RND transporter periplasmic adaptor subunit OqxA6
+Multidrug_efflux;multidrug efflux RND transporter periplasmic adaptor subunit OqxA9
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB11
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB12
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB15
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB16
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB17
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB18
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB19
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB20
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB27
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB4
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB5
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB7
+Multidrug_efflux;multidrug efflux RND transporter permease subunit OqxB9
+mupirocin;mupirocin-resistant isoleucine--tRNA ligase MupA
+rifampicin;NAD(+)--rifampin ADP-ribosyltransferase
+rifampicin;NAD(+)--rifampin ADP-ribosyltransferase Arr-2
+rifampicin;NAD(+)--rifampin ADP-ribosyltransferase Arr-3
+rifampicin;NAD(+)--rifampin ADP-ribosyltransferase Arr-4
+rifampicin;NAD(+)--rifampin ADP-ribosyltransferase Arr-5
+rifampicin;NAD(+)--rifampin ADP-ribosyltransferase Arr-6
+nitroimidazole;nitroimidazole resistance protein NimA
+nitroimidazole;nitroimidazole resistance protein NimB
+nitroimidazole;nitroimidazole resistance protein NimC
+nitroimidazole;nitroimidazole resistance protein NimD
+nitroimidazole;nitroimidazole resistance protein NimE
+nitroimidazole;nitroimidazole resistance protein NimI
+nitroimidazole;nitroimidazole resistance protein NimJ
+MLS;oleandomycin glycosyltransferase OleD
+MLS;OleI family self-immunity macrolide glycosyltransferase
+blactamase;OXA-12 family class D beta-lactamase AmpH/OXA-724
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-235
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-276
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-278
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-282
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-284
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-285
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-360
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-362
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-363
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-646
+blactamase;OXA-134 family carbapenem-hydrolyzing class D beta-lactamase OXA-648
+blactamase;OXA-184 family class D beta-lactamase OXA-447
+blactamase;OXA-184 family class D beta-lactamase OXA-623
+blactamase;OXA-184 family class D beta-lactamase OXA-638
+blactamase;OXA-2 family oxacillin-hydrolyzing class D beta-lactamase OXA-21
+blactamase;OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-643
+blactamase;OXA-211 family carbapenem-hydrolyzing class D beta-lactamase OXA-652
+blactamase;OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-304
+blactamase;OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-502
+blactamase;OXA-213 family carbapenem-hydrolyzing class D beta-lactamase OXA-819
+blactamase;OXA-22 family class D beta-lactamase OXA-443
+blactamase;OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-72
+blactamase;OXA-286 family class D beta-lactamase OXA-287
+blactamase;OXA-286 family class D beta-lactamase OXA-288
+blactamase;OXA-286 family class D beta-lactamase OXA-291
+blactamase;OXA-286 family class D beta-lactamase OXA-293
+blactamase;OXA-286 family class D beta-lactamase OXA-302
+blactamase;OXA-286 family class D beta-lactamase OXA-306
+blactamase;OXA-286 family class D beta-lactamase OXA-307
+blactamase;OXA-286 family class D beta-lactamase OXA-671
+blactamase;OXA-364 family oxacillin-hydrolyzing class D beta-lactamase OXA-455
+blactamase;OXA-48 family class D beta-lactamase OXA-535
+blactamase;OXA-493 family class D beta-lactamase OXA-518
+blactamase;OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-395
+blactamase;OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-396
+blactamase;OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-68
+blactamase;OXA-548 family class D beta-lactamase OXA-551
+blactamase;OXA-55 family carbapenem-hydrolyzing class D beta-lactamase OXA-729
+blactamase;OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-444
+blactamase;OXA-60 family carbapenem-hydrolyzing class D beta-lactamase OXA-573
+blactamase;OXA-61 family class D beta-lactamase OXA-602
+blactamase;OXA-61 family class D beta-lactamase OXA-609
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-152
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-153
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-154
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-155
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-156
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-157
+blactamase;OXA-62 family carbapenem-hydrolyzing class D beta-lactamase OXA-158
+blactamase;oxacillin-hydrolyzing class D beta-lactamase LCR-1
+blactamase;oxacillin-hydrolyzing class D beta-lactamase NPS-1
+blactamase;oxacillin-hydrolyzing class D beta-lactamase OXA-1
+blactamase;oxacillin-hydrolyzing class D beta-lactamase OXA-10
+blactamase;oxacillin-hydrolyzing class D beta-lactamase OXA-114a
+blactamase;oxacillin-hydrolyzing class D beta-lactamase OXA-2
+blactamase;oxacillin-hydrolyzing class D beta-lactamase OXA-59
+blactamase;oxacillin-hydrolyzing class D beta-lactamase OXA-85
+cycline;oxytetracycline resistance efflux MFS transporter OtrB
+cycline;oxytetracycline resistance phosphoribosyltransferase domain-containing protein Tet(34)
+blactam_non_enz;PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+blactam_non_enz;PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA1
+blactam_non_enz;PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecB
+blactam_non_enz;PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecC
+blactam_non_enz;PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecC3
+blactam_non_enz;PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecD
+blactamase;PenA family class A beta-lactamase
+blactamase;PenI family class A extended-spectrum beta-lactamase
+blactamase;penicillinase repressor BlaI
+blactamase;penicillin-hydrolyzing class A beta-lactamase BlaZ
+blactamase;penicillin-hydrolyzing class A beta-lactamase CBP-1
+blactamase;penicillin-hydrolyzing class A beta-lactamase PSV-1
+Glycopeptide/cycloserine;peptidoglycan bridge formation peptidyltransferase VanK-I
+Glycopeptide/cycloserine;peptidoglycan bridge formation peptidyltransferase VanK-Sc
+bleomycin;phleomycin/bleomycin binding protein Ble-Sh
+peptide;phosphoethanolamine--lipid A transferase MCR-1.1
+peptide;phosphoethanolamine--lipid A transferase MCR-10.1
+peptide;phosphoethanolamine--lipid A transferase MCR-2.2
+peptide;phosphoethanolamine--lipid A transferase MCR-3.1
+peptide;phosphoethanolamine--lipid A transferase MCR-3.12
+peptide;phosphoethanolamine--lipid A transferase MCR-3.20
+peptide;phosphoethanolamine--lipid A transferase MCR-3.27
+peptide;phosphoethanolamine--lipid A transferase MCR-4.3
+peptide;phosphoethanolamine--lipid A transferase MCR-5.1
+peptide;phosphoethanolamine--lipid A transferase MCR-7.1
+peptide;phosphoethanolamine--lipid A transferase MCR-8.2
+peptide;phosphoethanolamine--lipid A transferase MCR-9.1
+blactamase;PSE family carbenicillin-hydrolyzing class A beta-lactamase CARB-2
+blactamase;PSE family carbenicillin-hydrolyzing class A beta-lactamase CARB-4
+blactamase;PSE family carbenicillin-hydrolyzing class A beta-lactamase CARB-9
+blactamase;putative metallo-beta-lactamase SPR-1
+quinolone;QnrAS family quinolone resistance pentapeptide repeat protein
+quinolone;QnrC family quinolone resistance pentapeptide repeat protein
+quinolone;quinolone resistance pentapeptide repeat protein QnrA2
+quinolone;quinolone resistance pentapeptide repeat protein QnrA7
+quinolone;quinolone resistance pentapeptide repeat protein QnrB12
+quinolone;quinolone resistance pentapeptide repeat protein QnrB19
+quinolone;quinolone resistance pentapeptide repeat protein QnrB21
+quinolone;quinolone resistance pentapeptide repeat protein QnrB33
+quinolone;quinolone resistance pentapeptide repeat protein QnrB35
+quinolone;quinolone resistance pentapeptide repeat protein QnrB38
+quinolone;quinolone resistance pentapeptide repeat protein QnrB39
+quinolone;quinolone resistance pentapeptide repeat protein QnrB41
+quinolone;quinolone resistance pentapeptide repeat protein QnrB56
+quinolone;quinolone resistance pentapeptide repeat protein QnrB65
+quinolone;quinolone resistance pentapeptide repeat protein QnrB69
+quinolone;quinolone resistance pentapeptide repeat protein QnrB96
+quinolone;quinolone resistance pentapeptide repeat protein QnrD1
+quinolone;quinolone resistance pentapeptide repeat protein QnrE1
+quinolone;quinolone resistance pentapeptide repeat protein QnrS5
+quinolone;quinolone resistance pentapeptide repeat protein QnrVC1
+quinolone;quinolone resistance pentapeptide repeat protein QnrVC4
+quinolone;quinolone resistance pentapeptide repeat protein QnrVC6
+blactamase;RCP family class A beta-lactamase
+blactamase;RHO family class C beta-lactamase
+rifampicin;rifampin monooxygenase Iri
+rifampicin;rifampin monooxygenase Rox
+rifampicin;rifamycin-inactivating glycosyltransferase Rgt
+rifampicin;rifamycin-inactivating phosphotransferase Rph
+rifampicin;rifamycin-inactivating phosphotransferase RphC
+rifampicin;rifamycin-inactivating phosphotransferase RphD
+aminoside;RmtC family 16S rRNA (guanine(1405)-N(7))-methyltransferase
+aminoside;RmtH family 16S rRNA (guanine(1405)-N(7))-methyltransferase
+blactamase;RSC1 family class C beta-lactamase
+blactamase;RTG family carbenicillin-hydrolyzing class A beta-lactamase CARB-14
+blactamase;SED family class A beta-lactamase
+blactamase;SHW family subclass B1 metallo-beta-lactamase SLB-1
+blactamase;SRT/SST family class C beta-lactamase
+MLS;streptogramin A O-acetyltransferase Vat(A)
+MLS;streptogramin A O-acetyltransferase Vat(B)
+MLS;streptogramin A O-acetyltransferase Vat(C)
+MLS;streptogramin A O-acetyltransferase Vat(D)
+MLS;streptogramin A O-acetyltransferase Vat(E)
+MLS;streptogramin A O-acetyltransferase Vat(F)
+MLS;streptogramin A O-acetyltransferase Vat(H)
+MLS;streptogramin A O-acetyltransferase Vat(I)
+MLS;streptogramin B lyase Vgb(A)
+MLS;streptogramin B lyase Vgb(B)
+MLS;streptogramin B lyase Vgb(C)
+aminoside;streptomycin adenylyltransferase Str
+streptothricin;streptothricin N-acetyltransferase Sat2
+streptothricin;streptothricin N-acetyltransferase Sat4
+streptothricin;streptothricin N-acetyltransferase SatA
+streptothricin;streptothricin N-acetyltransferase STAT
+blactamase;subclass B1 metallo-beta-lactamase ALI-1
+blactamase;subclass B1 metallo-beta-lactamase ALI-2
+blactamase;subclass B1 metallo-beta-lactamase ANA-1
+blactamase;subclass B1 metallo-beta-lactamase BlaB-11
+blactamase;subclass B1 metallo-beta-lactamase BlaB-12
+blactamase;subclass B1 metallo-beta-lactamase BlaB-38
+blactamase;subclass B1 metallo-beta-lactamase BlaB-7
+blactamase;subclass B1 metallo-beta-lactamase CcrA
+blactamase;subclass B1 metallo-beta-lactamase DIM-1
+blactamase;subclass B1 metallo-beta-lactamase EBR-2
+blactamase;subclass B1 metallo-beta-lactamase EBR-3
+blactamase;subclass B1 metallo-beta-lactamase ECV-1
+blactamase;subclass B1 metallo-beta-lactamase FIA-1
+blactamase;subclass B1 metallo-beta-lactamase FIM-1
+blactamase;subclass B1 metallo-beta-lactamase GIM-1
+blactamase;subclass B1 metallo-beta-lactamase HMB-1
+blactamase;subclass B1 metallo-beta-lactamase IMP-1
+blactamase;subclass B1 metallo-beta-lactamase IMP-13
+blactamase;subclass B1 metallo-beta-lactamase IMP-14
+blactamase;subclass B1 metallo-beta-lactamase IMP-15
+blactamase;subclass B1 metallo-beta-lactamase IMP-18
+blactamase;subclass B1 metallo-beta-lactamase IMP-27
+blactamase;subclass B1 metallo-beta-lactamase IMP-7
+blactamase;subclass B1 metallo-beta-lactamase IMP-8
+blactamase;subclass B1 metallo-beta-lactamase IND-1
+blactamase;subclass B1 metallo-beta-lactamase IND-11
+blactamase;subclass B1 metallo-beta-lactamase IND-16
+blactamase;subclass B1 metallo-beta-lactamase IND-3
+blactamase;subclass B1 metallo-beta-lactamase IND-4
+blactamase;subclass B1 metallo-beta-lactamase IND-5
+blactamase;subclass B1 metallo-beta-lactamase IND-7
+blactamase;subclass B1 metallo-beta-lactamase IND-9
+blactamase;subclass B1 metallo-beta-lactamase JOHN-1
+blactamase;subclass B1 metallo-beta-lactamase KHM-1
+blactamase;subclass B1 metallo-beta-lactamase MOC-1
+blactamase;subclass B1 metallo-beta-lactamase MUS-1
+blactamase;subclass B1 metallo-beta-lactamase MYX-1
+blactamase;subclass B1 metallo-beta-lactamase NDM-1
+blactamase;subclass B1 metallo-beta-lactamase ORR-1
+blactamase;subclass B1 metallo-beta-lactamase PST-2
+blactamase;subclass B1 metallo-beta-lactamase SHN-1
+blactamase;subclass B1 metallo-beta-lactamase SIM-1
+blactamase;subclass B1 metallo-beta-lactamase SPM-1
+blactamase;subclass B1 metallo-beta-lactamase SPS-1
+blactamase;subclass B1 metallo-beta-lactamase TMB-1
+blactamase;subclass B1 metallo-beta-lactamase TTU-1
+blactamase;subclass B1 metallo-beta-lactamase TUS-1
+blactamase;subclass B1 metallo-beta-lactamase VIM-4
+blactamase;subclass B1 metallo-beta-lactamase VIM-6
+blactamase;subclass B1 metallo-beta-lactamase ZOG-1
+blactamase;subclass B2 metallo-beta-lactamase CphA1
+blactamase;subclass B2 metallo-beta-lactamase CphA2
+blactamase;subclass B2 metallo-beta-lactamase CphA3
+blactamase;subclass B2 metallo-beta-lactamase CphA4
+blactamase;subclass B2 metallo-beta-lactamase CphA5
+blactamase;subclass B2 metallo-beta-lactamase CphA7
+blactamase;subclass B2 metallo-beta-lactamase CVI-1
+blactamase;subclass B2 metallo-beta-lactamase PFM-2
+blactamase;subclass B2 metallo-beta-lactamase SFH-1
+blactamase;subclass B3 metallo-beta-lactamase AIM-1
+blactamase;subclass B3 metallo-beta-lactamase BJP-1
+blactamase;subclass B3 metallo-beta-lactamase CAR-1
+blactamase;subclass B3 metallo-beta-lactamase CAU-1
+blactamase;subclass B3 metallo-beta-lactamase CPS-1
+blactamase;subclass B3 metallo-beta-lactamase EAM-1
+blactamase;subclass B3 metallo-beta-lactamase ECM-1
+blactamase;subclass B3 metallo-beta-lactamase EFM-1
+blactamase;subclass B3 metallo-beta-lactamase ELM-1
+blactamase;subclass B3 metallo-beta-lactamase ESP-1
+blactamase;subclass B3 metallo-beta-lactamase FEZ-1
+blactamase;subclass B3 metallo-beta-lactamase GOB-13
+blactamase;subclass B3 metallo-beta-lactamase GOB-17
+blactamase;subclass B3 metallo-beta-lactamase GOB-29
+blactamase;subclass B3 metallo-beta-lactamase GOB-33
+blactamase;subclass B3 metallo-beta-lactamase GOB-48
+blactamase;subclass B3 metallo-beta-lactamase LRA-3
+blactamase;subclass B3 metallo-beta-lactamase MSI-1
+blactamase;subclass B3 metallo-beta-lactamase PEDO-1
+blactamase;subclass B3 metallo-beta-lactamase PEDO-2
+blactamase;subclass B3 metallo-beta-lactamase PLN-1
+blactamase;subclass B3 metallo-beta-lactamase POM-1
+blactamase;subclass B3 metallo-beta-lactamase Rm3
+blactamase;subclass B3 metallo-beta-lactamase THIN-B
+Sulfonamide/trimethoprim;sulfonamide monooxygenase SulX
+Sulfonamide/trimethoprim;sulfonamide-resistant dihydropteroate synthase Sul1
+Sulfonamide/trimethoprim;sulfonamide-resistant dihydropteroate synthase Sul2
+Sulfonamide/trimethoprim;sulfonamide-resistant dihydropteroate synthase Sul3
+Sulfonamide/trimethoprim;sulfonamide-resistant dihydropteroate synthase Sul4
+Glycopeptide/cycloserine;teicoplanin resistance protein VanJ
+cycline;tetracenomycin C efflux MFS transporter
+cycline;tetracycline destructase Tet(56)
+cycline;tetracycline efflux ABC transporter Tet(46) subunit A
+cycline;tetracycline efflux ABC transporter Tet(46) subunit B
+cycline;tetracycline efflux ABC transporter Tet(58) subunit A
+cycline;tetracycline efflux ABC transporter Tet(58) subunit B
+cycline;tetracycline efflux ABC transporter Tet(60) subunit A
+cycline;tetracycline efflux ABC transporter Tet(60) subunit B
+cycline;tetracycline efflux ABC transporter TetAB subunit A
+cycline;tetracycline efflux MFS transporter Tcr3
+cycline;tetracycline efflux MFS transporter Tet(30)
+cycline;tetracycline efflux MFS transporter Tet(31)
+cycline;tetracycline efflux MFS transporter Tet(33)
+cycline;tetracycline efflux MFS transporter Tet(38)
+cycline;tetracycline efflux MFS transporter Tet(39)
+cycline;tetracycline efflux MFS transporter Tet(40)
+cycline;tetracycline efflux MFS transporter Tet(41)
+cycline;tetracycline efflux MFS transporter Tet(42)
+cycline;tetracycline efflux MFS transporter Tet(45)
+cycline;tetracycline efflux MFS transporter Tet(57)
+cycline;tetracycline efflux MFS transporter Tet(59)
+cycline;tetracycline efflux MFS transporter Tet(A)
+cycline;tetracycline efflux MFS transporter Tet(B)
+cycline;tetracycline efflux MFS transporter Tet(C)
+cycline;tetracycline efflux MFS transporter Tet(D)
+cycline;tetracycline efflux MFS transporter Tet(E)
+cycline;tetracycline efflux MFS transporter Tet(G)
+cycline;tetracycline efflux MFS transporter Tet(H)
+cycline;tetracycline efflux MFS transporter Tet(J)
+cycline;tetracycline efflux MFS transporter Tet(K)
+cycline;tetracycline efflux MFS transporter Tet(L)
+cycline;tetracycline efflux MFS transporter Tet(V)
+cycline;tetracycline efflux MFS transporter Tet(Y)
+cycline;tetracycline efflux MFS transporter Tet(Z)
+cycline;tetracycline efflux MFS transporter TetA(P)
+cycline;tetracycline efflux Na+/H+ antiporter family transporter Tet(35)
+cycline;tetracycline resistance ribosomal protection protein Otr(A)
+cycline;tetracycline resistance ribosomal protection protein Tet(32)
+cycline;tetracycline resistance ribosomal protection protein Tet(36)
+cycline;tetracycline resistance ribosomal protection protein Tet(44)
+cycline;tetracycline resistance ribosomal protection protein Tet(M)
+cycline;tetracycline resistance ribosomal protection protein Tet(O)
+cycline;tetracycline resistance ribosomal protection protein Tet(Q)
+cycline;tetracycline resistance ribosomal protection protein Tet(S)
+cycline;tetracycline resistance ribosomal protection protein Tet(T)
+cycline;tetracycline resistance ribosomal protection protein Tet(W)
+cycline;tetracycline resistance ribosomal protection protein TetB(P)
+cycline;tetracycline-inactivating monooxygenase Tet(X)
+Glycopeptide/cycloserine;transpeptidase-like D-Ala-D-Ala carboxypeptidase VanY-D
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase Dfr7
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA1
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA10
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA12
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA14
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA15
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA16
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA17
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA18
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA19
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA21
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA22
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA23
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA25
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA26
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA27
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA30
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA32
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA34
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA36
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA5
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA6
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA7
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrA8
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrB1
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrB3
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrB4
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrB5
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrB9
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrC
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrD
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrE
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrF
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrG
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrI
+Sulfonamide/trimethoprim;trimethoprim-resistant dihydrofolate reductase DfrK
+phenicol;type A chloramphenicol O-acetyltransferase
+phenicol;type A chloramphenicol O-acetyltransferase CatV
+phenicol;type A-1 chloramphenicol O-acetyltransferase
+phenicol;type A-10 chloramphenicol O-acetyltransferase
+phenicol;type A-11 chloramphenicol O-acetyltransferase CatP
+phenicol;type A-13 chloramphenicol O-acetyltransferase
+phenicol;type A-14 chloramphenicol O-acetyltransferase
+phenicol;type A-15 chloramphenicol acetyltransferase CatA15
+phenicol;type A-16 chloramphenicol O-acetyltransferase CatQ
+phenicol;type A-2 chloramphenicol O-acetyltransferase CatII
+phenicol;type A-3 chloramphenicol O-acetyltransferase CatIII
+phenicol;type A-4 chloramphenicol O-acetyltransferase
+phenicol;type A-5 chloramphenicol O-acetyltransferase
+phenicol;type A-6 chloramphenicol O-acetyltransferase Cat86
+phenicol;type A-7 chloramphenicol O-acetyltransferase
+phenicol;type A-8 chloramphenicol O-acetyltransferase
+phenicol;type A-9 chloramphenicol O-acetyltransferase
+phenicol;type B chloramphenicol O-acetyltransferase
+phenicol;type B chloramphenicol O-acetyltransferase CatB10
+phenicol;type B-1 chloramphenicol O-acetyltransferase CatB1
+phenicol;type B-2 chloramphenicol O-acetyltransferase CatB11
+phenicol;type B-2 chloramphenicol O-acetyltransferase CatB2
+phenicol;type B-3 chloramphenicol O-acetyltransferase CatB3
+phenicol;type B-3 chloramphenicol O-acetyltransferase CatB8
+phenicol;type B-4 chloramphenicol O-acetyltransferase CatB7
+phenicol;type B-5 chloramphenicol O-acetyltransferase CatB9
+Glycopeptide/cycloserine;VanA-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanA-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanB-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanB-type vancomycin resistance response regulator transcription factor VanR
+Glycopeptide/cycloserine;VanC-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanC-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanD-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanD-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanE-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanE-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanF-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanF-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanG-Cd-type vancomycin resistance DNA-binding response regulator VanS
+Glycopeptide/cycloserine;VanG-Cd-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanG-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanG-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanI-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanM-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanM-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanN-type vancomycin resistance DNA-binding response regulator VanR
+Glycopeptide/cycloserine;VanN-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanO-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanO-type vancomycin resistance response regulator transcription factor VanR
+Glycopeptide/cycloserine;VanPt-type vancomycin resistance histidine kinase VanS
+Glycopeptide/cycloserine;VanY-like protein
+blactamase;VarG family subclass B1-like metallo-beta-lactamase
+peptide;viomycin phosphotransferase

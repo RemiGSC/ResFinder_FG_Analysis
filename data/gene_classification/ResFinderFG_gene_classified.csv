@@ -1,0 +1,73 @@
+Colonne1;Colonne2
+aminoside;16S rRNA (guanine(1405)-N(7))-methyltransferase
+aminoside;2''-aminoglycoside nucleotidyltransferase
+MLS;ABC-F type ribosomal protection protein Msr(E)
+aminoside;Aminoglycoside 3'-phosphotransferase
+aminoside;Aminoglycoside 6-adenylyltransferase
+aminoside;Aminoglycoside N(6')-acetyltransferase type 1
+blactamase;Beta-lactamase
+blactamase;Beta-lactamase 1
+blactamase;Beta-lactamase 3
+blactamase;Beta-lactamase CARB-6
+blactamase;Beta-lactamase CTX-M-1
+blactamase;Beta-lactamase CTX-M-97
+blactamase;Beta-lactamase OXA-1
+blactamase;Beta-lactamase OXA-10
+blactamase;Beta-lactamase OXA-133
+blactamase;Beta-lactamase OXA-15
+blactamase;Beta-lactamase OXA-18
+blactamase;Beta-lactamase OXA-2
+blactamase;Beta-lactamase OXY-1
+blactamase;Beta-lactamase OXY-2
+blactamase;Beta-lactamase PSE-1
+blactamase;Beta-lactamase PSE-4
+blactamase;Beta-lactamase SHV-1
+blactamase;Beta-lactamase SHV-2
+blactamase;Beta-lactamase SHV-3
+blactamase;Beta-lactamase TEM
+blactamase;Beta-lactamase Toho-1
+aminoside;Bifunctional AAC/APH
+blactamase;Carbapenem-hydrolyzing beta-lactamase KPC
+blactamase;Carbapenem-hydrolyzing beta-lactamase Sme-1
+phenicol;Chloramphenicol acetyltransferase
+phenicol;Chloramphenicol acetyltransferase 2
+phenicol;Chloramphenicol acetyltransferase 3
+phenicol;chloramphenicol efflux MFS transporter CmlA1
+phenicol;chloramphenicol efflux MFS transporter CmlA5
+phenicol;chloramphenicol efflux MFS transporter CmlB1
+Glycopeptide/cycloserine;D-alanine--D-alanine ligase
+Glycopeptide/cycloserine;D-alanine--D-alanine ligase A
+Glycopeptide/cycloserine;D-alanine--D-alanine ligase B
+Sulfonamide/trimethoprim;Dihydrofolate reductase
+Sulfonamide/trimethoprim;Dihydrofolate reductase type 1
+Sulfonamide/trimethoprim;Dihydrofolate reductase type 3
+Sulfonamide/trimethoprim;Dihydropteroate synthase
+blactamase;Extended-spectrum beta-lactamase PER-1
+aminoside;Gentamicin 3-N-acetyltransferase
+blactamase;Metallo-beta-lactamase L1 type 3
+blactamase;Metallo-beta-lactamase type 2
+blactam_non_enz;Methicillin resistance mecR1 protein
+quinolone;Pentapeptide repeat protein
+blactamase;putative beta-lactamase YbxI
+blactamase;putative peptidoglycan D%2CD-transpeptidase PenA
+MLS;Ribosomal RNA small subunit methyltransferase A
+aminoside;SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD
+aminoside;Streptomycin 3''-adenylyltransferase
+cycline;tetracycline efflux MFS transporter Tet(L)
+cycline;tetracycline efflux MFS transporter TetA(P)
+cycline;Tetracycline repressor protein class A from transposon 1721
+cycline;Tetracycline resistance protein TetM from transposon TnFO1
+cycline;Tetracycline resistance protein TetO
+cycline;Tetracycline resistance protein%2C class B
+cycline;Tetracycline resistance protein%2C class C
+cycline;tetracycline resistance ribosomal protection protein Tet(32)
+cycline;tetracycline resistance ribosomal protection protein Tet(M)
+cycline;tetracycline resistance ribosomal protection protein Tet(O)
+cycline;tetracycline resistance ribosomal protection protein Tet(Q)
+cycline;tetracycline resistance ribosomal protection protein Tet(S)
+cycline;tetracycline resistance ribosomal protection protein Tet(W)
+cycline;tetracycline resistance ribosomal protection protein TetB(P)
+Glycopeptide/cycloserine;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Glycopeptide/cycloserine;Vancomycin B-type resistance protein VanB
+Glycopeptide/cycloserine;Vancomycin C-type resistance protein VanC
+Glycopeptide/cycloserine;Vancomycin/teicoplanin A-type resistance protein VanA
