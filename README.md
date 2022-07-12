@@ -36,7 +36,7 @@ Upset plot generated were :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> upset_water.jpeg  
 
 To retrieve statistics such as number of unigene hits, specific unigene hits regarding database used and antibiotic families, we used **stats_extract_dataframe_upset.py**
-Retrieved statistics were then written in the data.csv tables.  
+Retrieved statistics were then written in the stats.csv tables.  
 
 ## Specific unigene hits gene names
 First, specific unigene hits were retrieved using : **exclusive_genes.py**  
