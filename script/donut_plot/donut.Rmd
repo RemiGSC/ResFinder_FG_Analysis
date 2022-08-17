@@ -1,0 +1,79 @@
+---
+title: "Réalisation de donut plot"
+output: html_notebook
+---
+
+On importe les librairies nécessaires
+
+```{r}
+library(ggplot2)
+```
+
+
+On créé le dataset
+
+```{r}
+data <- data.frame(
+  category=c("Phenicol", "Cycline", "Quinolone", "Beta-lactamase", "Aminoglycoside", "MLS", "Sulfonamide_trimethoprim", "Glycopeptide_cycloserine"),
+  count=c(0, 8, 0, 16, 3, 0, 75, 27)
+)
+```
+
+On fait les pourcentages
+
+```{r}
+data$fraction = data$count / sum(data$count)
+```
+
+On fait le cumul des pourcentages
+
+```{r}
+data$ymax = c(0, head(data$ymax, n=1))
+data$ymin = c(0, head(data$ymax, n=-1))
+```
+
+On fait le donut plot
+
+```{r}
+hsize <- 4
+ggplot(data, aes(x = hsize, y = count, fill = category)) +
+     geom_rect() +
+     coord_polar(theta="y") + # Try to remove that to understand how the chart is built initially
+     xlim(c(0.2, hsize+0.5)) # Try to remove that to see how to make a pie chart
+```
+
+
+```{r}
+library(ggplot2)
+ 
+# Create test data.
+data <- data.frame(
+  category=c("Phenicol", "Cycline", "Quinolone", "Beta-lactamases", "Aminoside", "MLS", "Sulfonamide/Trimethoprim", "Glycopeptide/Cycloserine"),
+  count=c(7, 6, 0, 54, 9, 0, 46, 89)
+)
+ 
+# Compute percentages
+data$fraction = data$count / sum(data$count)
+
+# Compute the cumulative percentages (top of each rectangle)
+data$ymax = cumsum(data$fraction)
+
+# Compute the bottom of each rectangle
+data$ymin = c(0, head(data$ymax, n=-1))
+ 
+# Make the plot
+p <- ggplot(data, aes(ymax=ymax, ymin=ymin, xmax=4, xmin=3, fill=category)) +
+     geom_rect() +
+     coord_polar(theta="y") +
+     xlim(c(0.5, 4)) +
+     theme_void()+
+     scale_fill_manual(values=c(
+       "#BBDAEA", # Aminoglycoside #BBDAEA
+       "#EE6666", # Beta-lactamase #EE6666
+       "#ffffb3", # Cycline #ffffb3
+       "#C0E69F", # Glycopeptide #C0E69F
+       "#FCB6B6", # Macrolide #FCB6B6
+       "#8dd3c7", # Phenicol #8dd3c7
+       "#b3de69", # Quinolone #b3de69
+       "#FDCD8C")) # Sulfonamide #FDCD8C
+```

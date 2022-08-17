@@ -16,7 +16,7 @@ require(UpSetR)
 VERSION POUR WATER
 Modification du tableau sous forme de matrice.
 ```{r}
-all_data <- read.csv("C:\\Users\\remi.gschwind\\Desktop\\Resfinder FG\\ResFinder_FG_Analysis\\analysis0422\\output\\all_water.csv", sep = ";")
+all_data <- read.csv("C:\\Users\\remi.gschwind\\Desktop\\Resfinder FG\\ResFinder_FG_Analysis\\analysis0422\\output\\water\\all_water.csv", sep = ";")
 df <- tibble(gmgc_id = all_data$GMGC_id , family = all_data$family , db = all_data$db)
 df2 <- df %>% separate_rows(db, sep = "/") %>% mutate(i = 1) %>% spread(db,i,fill=0)
 df2
@@ -49,13 +49,16 @@ data <- data %>% mutate(nametoshow = case_when(family == "Multidrug_efflux" ~ "M
                                                 family == "MLS" ~ "MLS",
                                                 family == "aminoside" ~ "Aminoside",
                                                 family == "blactamase" ~ "Beta-lactamases",
+                                                family == "cycline" ~ "Cycline",
+                                                family == "phenicol" ~ "Phenicol",
+                                                family == "quinolone" ~ "Quinolone",
                                                 TRUE ~ "Others"))
 ```
 
 Attribution des couleurs
 ```{r}
-families <- c("Others", "Beta-lactamases", "Aminoside", "MLS", "Sulfonamide/Trimethoprim", "Glycopeptide/Cycloserine", "Multidrug Efflux")
-colors_f <- c("#D2D2D2", "#EE6666", "#BBDAEA", "#FCB6B6", "#FDCD8C", "#C0E69F", "#2C94DA") 
+families <- c("Others", "Phenicol", "Cycline", "Quinolone", "Beta-lactamases", "Aminoside", "MLS", "Sulfonamide/Trimethoprim", "Glycopeptide/Cycloserine", "Multidrug Efflux")
+colors_f <- c("#D2D2D2", "#8dd3c7", "#ffffb3", "#b3de69","#EE6666", "#BBDAEA", "#FCB6B6", "#FDCD8C", "#C0E69F", "#2C94DA") 
 ```
 
 Réalisation de l'upset plot
@@ -64,40 +67,55 @@ p <- UpSetR::upset(data,
               order.by = "freq", sets.x.label = "ARGs detected", point.size = 3, text.scale = 2.8,
               queries = list(
                 list(query = elements,
-                     params = list("nametoshow", families[1:7]),
+                     params = list("nametoshow", families[1:10]),
                      color = colors_f[1],
                      active = T,
                      query.name = families[1]), 
               list(query = elements,
-                     params = list("nametoshow", families[2:7]),
+                     params = list("nametoshow", families[2:10]),
                      color =  colors_f[2],
                      active = T,
                      query.name = families[2]), 
               list(query = elements,
-                     params = list("nametoshow", families[3:7]),
+                     params = list("nametoshow", families[3:10]),
                      color = colors_f[3],
                      active = T,
                      query.name = families[3]),
               list(query = elements,
-                     params = list("nametoshow", families[4:7]),
+                     params = list("nametoshow", families[4:10]),
                      color = colors_f[4],
                      active = T,
                      query.name = families[4]),
               list(query = elements,
-                     params = list("nametoshow", families[5:7]),
+                     params = list("nametoshow", families[5:10]),
                      color = colors_f[5],
                      active = T,
                      query.name = families[5]),
               list(query = elements,
-                     params = list("nametoshow", families[6:7]),
+                     params = list("nametoshow", families[6:10]),
                      color = colors_f[6],
                      active = T,
                      query.name = families[6]),
               list(query = elements,
-                     params = list("nametoshow", families[7:7]),
+                     params = list("nametoshow", families[7:10]),
                      color = colors_f[7],
                      active = T,
-                     query.name = families[7])
+                     query.name = families[7]),
+              list(query = elements,
+                     params = list("nametoshow", families[8:10]),
+                     color = colors_f[8],
+                     active = T,
+                     query.name = families[8]),
+              list(query = elements,
+                     params = list("nametoshow", families[9:10]),
+                     color = colors_f[9],
+                     active = T,
+                     query.name = families[9]),
+              list(query = elements,
+                     params = list("nametoshow", families[10:10]),
+                     color = colors_f[10],
+                     active = T,
+                     query.name = families[10])
               ), query.legend = "top")
 
 p
