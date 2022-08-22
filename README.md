@@ -8,7 +8,7 @@ Number of ARGs found in ResFinderFG v2.0 and v1.0 was compared using the followi
 Then, **comparison_plot.Rmd** was used with R to generate the figure.
 
 ## Abricate analysis
-Abricate was use with default parameters and 5 different antibiotic resistance genes databases (ResFinderFG v2.0, ResFinder 4.0, CARD, ARG-ANNOT and NCBI) to detect antibiotic resistance genes in 3 global microbial gene catalog (GMGC, https://gmgc.embl.de/download.cgi):  
+Abricate was use with default parameters and 5 different antibiotic resistance genes databases (ResFinderFG v2.0, ResFinder 4.0, CARD v3.0.8, ARG-ANNOT v5, NCBI v3.6) to detect antibiotic resistance genes in 3 global microbial gene catalog (GMGC, https://gmgc.embl.de/download.cgi):  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> Human gut  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> Soil  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> Water (freshwater + marine)  
